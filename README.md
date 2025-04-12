@@ -1,4 +1,4 @@
-# 📱 Mobile Phones E-commerce Website
+# 📱 Electronics E-commerce Website
 
 A simple and responsive single-page e-commerce web application for mobile phone shopping.  
 Built using **HTML**, **JavaScript**, and **Bootstrap**, this project demonstrates front-end skills and simulates a shopping experience without a backend.
