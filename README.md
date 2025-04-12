@@ -1,34 +1,31 @@
-📱 Mobile Phones E-commerce Website
-A simple and responsive single-page e-commerce web application for mobile phone shopping. Built using HTML, JavaScript, and Bootstrap, this project demonstrates core front-end development skills by creating an interactive shopping experience without a backend.
+# 📱 Mobile Phones E-commerce Website
 
-🚀 Demo
-This is a front-end-only demo — no backend or database is connected.
-The cart data is stored in the browser using localStorage.
+A simple and responsive single-page e-commerce web application for mobile phone shopping.  
+Built using **HTML**, **JavaScript**, and **Bootstrap**, this project demonstrates front-end skills and simulates a shopping experience without a backend.
 
-You can try the live demo here: Live Demo
-(Add your GitHub Pages or deployment link once it's live)
+## 🚀 Demo
 
-🛒 Features
-✅ Electronic online store focused on mobile phones
+> This is a front-end-only demo — no backend or database is connected.  
+> Cart data is stored in the browser using `localStorage`.
 
-✅ Product listing with images, names, and prices
+🔗 **[Live Demo](#)** *(Replace `#` with your GitHub Pages or deployment link)*
 
-✅ Detailed product view with more information
+## 🛒 Features
 
-✅ Shopping cart functionality with item quantity tracking
+- ✅ Electronic online store focused on mobile phones  
+- ✅ Product listing with images, names, and prices  
+- ✅ Detailed product view with specifications  
+- ✅ Shopping cart functionality with item quantity tracking  
+- ✅ Persistent cart using `localStorage`  
+- ✅ Responsive and mobile-friendly design with Bootstrap  
+- ✅ Real-time DOM manipulation for UI updates  
 
-✅ Cart data saved using localStorage
+## 💡 Technologies Used
 
-✅ Responsive and mobile-friendly design using Bootstrap
+- HTML5  
+- CSS3 (via Bootstrap 5)  
+- JavaScript (ES6+)
+- JQuery 
+- LocalStorage API  
 
-✅ Interactive UI updates via DOM manipulation
-
-💡 Technologies Used
-HTML5
-
-CSS3 (via Bootstrap 5)
-
-JavaScript (ES6+)
-
-localStorage API
 
