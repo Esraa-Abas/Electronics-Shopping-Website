@@ -30,7 +30,8 @@ Built using **HTML**, **JavaScript**, and **Bootstrap**, this project demonstrat
 
 ## 📽 Demo Video
 
-▶️ [Watch demo on Google Drive]([https://drive.google.com/file/d/VIDEO_ID/view](https://drive.google.com/file/d/1GV1wA1NWYJ7yLgJv1RxNYn9_lIoD3Ws8/view?usp=drive_link))
+▶️ [Watch demo on Google Drive]
+https://drive.google.com/file/d/VIDEO_ID/view](https://drive.google.com/file/d/1GV1wA1NWYJ7yLgJv1RxNYn9_lIoD3Ws8/view?usp=drive_link
 
 
 
